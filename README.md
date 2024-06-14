@@ -8,3 +8,4 @@ Após todos os carros terem ido em direção ao estacionamento, é sorteado, de 
 
 Por fim, os carros removidos do estacionamento voltam para a pista 1.
  
+Pojeto da disclina Estrutura de Dados, feito em grupo com @JPedroo
